@@ -9,10 +9,7 @@
     <a href="https://www.notion.so/web12-MafiaCamp-db7e416f79ce4e3e9a7d6c0f60a87c3f" target="_blank"><img src="https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white"></a>
     <a href="https://www.figma.com/design/jykNeGhfgzFa0meKngwVGC/web12-MafiaCamp?node-id=3203-2446&node-type=canvas&t=79ymMpi5I0LGEe5Q-0" target="_blank"><img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?logo=figma&logoColor=white"></a>
     <a href="https://github.com/boostcampwm-2024/web12-MafiaCamp/wiki" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Wiki-181717?logo=github&logoColor=white"></a>
-  </div>
-  <div align="center">
     <a href="https://www.notion.so/116351182b074467b8c69d7535bba23d" target="_blank"><img   src="https://img.shields.io/badge/📒%20기획서-4687FF?logo=none&logoColor=white"></a>
-    <a href="https://www.notion.so/12cc95a1e2c6810fb297f33bb782f817?v=12cc95a1e2c6814ebd96000cfbf3113a" target="_blank"><img src="https://img.shields.io/badge/📝%20회의록-90E59A?logo=none&logoColor=white"></a>
   </div>
 </div>
 
