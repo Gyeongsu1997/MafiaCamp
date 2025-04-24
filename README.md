@@ -170,12 +170,3 @@
 
 <br/>
 <br/>
-
-
-## 🌱 MafiaCamper 소개
-
-|                                  J051_김영현                                  |                                J085_노현진                                 |                                 J149_심재성                                 |                                  J251_최경수                                  |
-|:------------------------------------------------------------------:| :-------------------------------------------------------------------: | :--------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-| <img src="https://github.com/0Chord.png" width="100" height="100"> | <img src="https://github.com/HyunJinNo.png" width="100" height="100"> | <img src="https://github.com/simjaesung.png" width="100" height="100"> | <img src="https://github.com/Gyeongsu1997.png" width="100" height="100"> |
-|                [@0Chord](https://github.com/0Chord)                |              [@HyunJinNo](https://github.com/HyunJinNo)               |              [@simjaesung](https://github.com/simjaesung)              |             [@Gyeongsu1997](https://github.com/Gyeongsu1997)             |
-|                              Back-end                              |                               Front-end                               |                                Back-end                                |                                 Back-end                                 |
