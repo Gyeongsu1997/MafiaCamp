@@ -2,8 +2,6 @@
 
 <img src="https://github.com/user-attachments/assets/af23f745-caa8-4c12-a4da-00e25571b105" />
 
-> 배포 링크 <br/> **https://mafiacamp.p-e.kr/**
-
 <br/>
 
 <div align="center">
@@ -15,16 +13,7 @@
   <div align="center">
     <a href="https://www.notion.so/116351182b074467b8c69d7535bba23d" target="_blank"><img   src="https://img.shields.io/badge/📒%20기획서-4687FF?logo=none&logoColor=white"></a>
     <a href="https://www.notion.so/12cc95a1e2c6810fb297f33bb782f817?v=12cc95a1e2c6814ebd96000cfbf3113a" target="_blank"><img src="https://img.shields.io/badge/📝%20회의록-90E59A?logo=none&logoColor=white"></a>
-    <a href="https://github.com/boostcampwm-2024/web12-MafiaCamp/projects?query=is%3Aopen" target="blank"><img src="https://img.shields.io/badge/🎯%20백로그-02B78F?logo=none&logoColor=white"></a>
   </div>
-</div>
-
-<br/>
-
-<div align="center">
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fboostcampwm-2024%2Fweb12-MafiaCamp&count_bg=%23328BC8&title_bg=%23414F59&icon=microsoftedge.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 </div>
 
 <br/>
@@ -37,7 +26,6 @@
 - [🏆 문제 해결 경험 및 기술적 도전](#-문제-해결-경험-및-기술적-도전)
 - [🏛️️ 아키텍처](#%EF%B8%8F%EF%B8%8F-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98)
 - [📚 기술스택](#-기술스택)
-- [🌱 MafiaCamper 소개](#-mafiacamper-소개)
 
 <br/>
 <br/>
